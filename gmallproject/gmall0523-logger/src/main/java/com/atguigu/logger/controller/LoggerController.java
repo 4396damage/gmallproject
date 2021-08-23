@@ -41,7 +41,7 @@ public class LoggerController {
         System.out.println(jsonLog);
         //可以使用io流落盘，或者loggerback
 
-////版本3
+////版本4-分支之前。
         
         //============================log落盘
         log.info(jsonLog);
