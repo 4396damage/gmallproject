@@ -42,7 +42,9 @@ public class LoggerController {
         //可以使用io流落盘，或者loggerback
 
 ////版本4-分支之前。
-        
+
+        //master
+
         //============================log落盘
         log.info(jsonLog);
 
